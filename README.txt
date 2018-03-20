@@ -10,7 +10,7 @@
 CLF-UoClassicフォントは、
 Ultima Online（ (C) Electronic Arts Inc. ）の
 2Dクライアント風の半角英数字と一部記号の文字アウトラインを制作し、
-その他の文字をIPAexゴシックで補ったTrueTypeフォントです。
+その他の文字をIPAexゴシックを若干変更した物で補ったTrueTypeフォントです。
 
 
 
